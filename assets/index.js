@@ -11,7 +11,7 @@ var animation = bodymovin.loadAnimation({
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: './data/data-best.json'
+    path: './data/data-1.json'
   })
 
   var animation2 = bodymovin.loadAnimation({
@@ -19,5 +19,5 @@ var animation = bodymovin.loadAnimation({
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: './data/data-best-2.json'
+    path: './data/data-2.json'
   })
